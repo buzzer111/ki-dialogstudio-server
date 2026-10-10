@@ -1,0 +1,36 @@
+# Abhängigkeiten
+node_modules/
+
+# Erzeugte Dateien
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Zugangsdaten und lokale Einstellungen
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+license.json
+*.lic
+
+# Daten
+data/
+uploads/
+*.sqlite
+*.sqlite3
+*.db
+
+# Protokolle
+logs/
+*.log
+npm-debug.log*
+
+# Betriebssystem und Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
