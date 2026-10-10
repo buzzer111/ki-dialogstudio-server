@@ -1,7 +1,7 @@
 {
   "name": "ki-dialogstudio-server",
   "version": "0.0.0",
-  "description": "KI-Dialogstudio Server: selbst gehostete Firmen-Version von KI-Dialogstudio",
+  "description": "KI-Dialogstudio Server: self-hosted business edition of KI-Dialogstudio",
   "private": true,
   "license": "UNLICENSED"
 }
